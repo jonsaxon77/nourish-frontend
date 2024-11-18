@@ -2,7 +2,6 @@ import '@/app/ui/globals.scss';
 import Header from './ui/Header';
 import Footer from './ui/Footer';
 import Head from 'next/head';
-import Script from 'next/script';
 
 export default function RootLayout({
   children,
